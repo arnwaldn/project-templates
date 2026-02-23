@@ -1,8 +1,8 @@
 # Project Templates & References - Master Index
 
 > Location: ~/Projects/tools/project-templates/
-> 164 scaffold templates + 9 reference files
-> Last updated: 2026-02-22
+> 166 scaffold templates + 10 reference files
+> Last updated: 2026-02-23
 
 ---
 
@@ -15,7 +15,7 @@ Claude: ALWAYS consult this index before scaffolding a new project.
 
 ---
 
-## Reference Files (9)
+## Reference Files (10)
 
 Curated catalogs from major open-source collections. Read these for inspiration and to find existing solutions.
 
@@ -30,12 +30,13 @@ Curated catalogs from major open-source collections. Read these for inspiration 
 | `gitignore-reference.md` | github.com/github/gitignore | 262 gitignore templates | Setting up .gitignore for any stack |
 | `profile-readme-reference.md` | github.com/kautukkundan/Awesome-Profile-README-templates | 244 GitHub profile README styles | Creating GitHub profile README |
 | `roadmap-sh-reference.md` | roadmap.sh | 80+ roadmaps, 80+ projects, 900+ interview Q | Learning paths, project ideas |
+| `aitmpl-reference.md` | app.aitmpl.com / davila7/claude-code-templates | 7,388 files: 434 agents, 258 commands, 673 skills, 66 MCPs | Extending Claude Code config (agents, commands, hooks, skills) |
 
 ---
 
-## Scaffold Templates by Category (164)
+## Scaffold Templates by Category (166)
 
-### AI Agents (42 templates)
+### AI Agents (43 templates)
 
 Single-purpose AI agents for specific domains.
 
@@ -83,6 +84,7 @@ Single-purpose AI agents for specific domains.
 | `ai-breakup-recovery` | Emotional support | Supportive AI |
 | `ai-3d-pygame` | 3D game | Pygame + AI |
 | `multimodal-ai-agent` | Multi-modal | Vision + text + audio |
+| `xai-finance-agent` | Finance agent | xAI + financial analysis |
 
 ### RAG Applications (21 templates)
 
@@ -179,7 +181,7 @@ Voice-enabled AI applications.
 | `voice-customer-support` | Voice support agent |
 | `voice-rag` | Voice-enabled RAG |
 
-### Games (5 templates)
+### Games (6 templates)
 
 Game development scaffolds.
 
@@ -190,6 +192,7 @@ Game development scaffolds.
 | `game-puzzle` | Puzzle game |
 | `game-roguelike` | Roguelike dungeon |
 | `game-web` | 2D browser game |
+| `unity-game` | Unity 3D game (C#) |
 
 ### ML & Fine-tuning (4 templates)
 
@@ -332,4 +335,4 @@ Consult `roadmap-sh-reference.md` for 80+ roadmaps and 80+ project ideas.
 
 - Templates: ultra-create-v28 scaffold collection
 - References: Curated from 9 major open-source repositories
-- Total: 164 templates + 9 reference files
+- Total: 166 templates + 9 reference files

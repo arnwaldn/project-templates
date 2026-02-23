@@ -5,3 +5,6 @@ desktop.ini
 node_modules/
 __pycache__/
 *.pyc
+
+# ATUM Audit
+audit_store/
