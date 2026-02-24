@@ -1,8 +1,8 @@
 # Project Templates & References - Master Index
 
 > Location: ~/Projects/tools/project-templates/
-> 166 scaffold templates + 10 reference files
-> Last updated: 2026-02-23
+> 166 scaffold templates + 18 compliance checklists + 10 reference files
+> Last updated: 2026-02-24
 
 ---
 
@@ -31,6 +31,20 @@ Curated catalogs from major open-source collections. Read these for inspiration 
 | `profile-readme-reference.md` | github.com/kautukkundan/Awesome-Profile-README-templates | 244 GitHub profile README styles | Creating GitHub profile README |
 | `roadmap-sh-reference.md` | roadmap.sh | 80+ roadmaps, 80+ projects, 900+ interview Q | Learning paths, project ideas |
 | `aitmpl-reference.md` | app.aitmpl.com / davila7/claude-code-templates | 7,388 files: 434 agents, 258 commands, 673 skills, 66 MCPs | Extending Claude Code config (agents, commands, hooks, skills) |
+
+---
+
+## Compliance Checklists (18)
+
+Regulatory compliance templates for commercial production-ready projects. See `compliance/INDEX.md` for full details.
+
+| Category | Files | Content |
+|----------|-------|---------|
+| Sectors (7) | ecommerce, saas, healthcare, finance, children, ai-ml, marketplace | Sector-specific compliance checklists |
+| Regulations (8) | gdpr, pci-dss-4, hipaa, ccpa-cpra, nis2-cra, soc2, eaa-wcag22, owasp-2025 | Detailed regulation checklists |
+| Patterns (3) | cookie-consent, consent-management, data-subject-requests | Implementation patterns (multi-framework) |
+
+Usage: `/compliance audit` | `/compliance sector:ecommerce` | `/compliance checklist gdpr`
 
 ---
 
@@ -335,4 +349,4 @@ Consult `roadmap-sh-reference.md` for 80+ roadmaps and 80+ project ideas.
 
 - Templates: ultra-create-v28 scaffold collection
 - References: Curated from 9 major open-source repositories
-- Total: 166 templates + 9 reference files
+- Total: 166 templates + 18 compliance checklists + 10 reference files
